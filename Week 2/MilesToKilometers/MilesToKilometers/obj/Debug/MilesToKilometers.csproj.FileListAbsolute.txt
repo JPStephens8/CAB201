@@ -1,0 +1,6 @@
+c:\users\joshy\documents\visual studio 2015\Projects\MilesToKilometers\MilesToKilometers\bin\Debug\MilesToKilometers.exe.config
+c:\users\joshy\documents\visual studio 2015\Projects\MilesToKilometers\MilesToKilometers\obj\Debug\MilesToKilometers.csprojResolveAssemblyReference.cache
+c:\users\joshy\documents\visual studio 2015\Projects\MilesToKilometers\MilesToKilometers\bin\Debug\MilesToKilometers.exe
+c:\users\joshy\documents\visual studio 2015\Projects\MilesToKilometers\MilesToKilometers\bin\Debug\MilesToKilometers.pdb
+c:\users\joshy\documents\visual studio 2015\Projects\MilesToKilometers\MilesToKilometers\obj\Debug\MilesToKilometers.exe
+c:\users\joshy\documents\visual studio 2015\Projects\MilesToKilometers\MilesToKilometers\obj\Debug\MilesToKilometers.pdb
