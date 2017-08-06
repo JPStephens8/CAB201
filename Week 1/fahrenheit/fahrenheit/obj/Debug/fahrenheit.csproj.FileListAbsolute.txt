@@ -1,0 +1,5 @@
+c:\users\joshy\documents\visual studio 2015\Projects\fahrenheit\fahrenheit\bin\Debug\fahrenheit.exe.config
+c:\users\joshy\documents\visual studio 2015\Projects\fahrenheit\fahrenheit\bin\Debug\fahrenheit.exe
+c:\users\joshy\documents\visual studio 2015\Projects\fahrenheit\fahrenheit\bin\Debug\fahrenheit.pdb
+c:\users\joshy\documents\visual studio 2015\Projects\fahrenheit\fahrenheit\obj\Debug\fahrenheit.exe
+c:\users\joshy\documents\visual studio 2015\Projects\fahrenheit\fahrenheit\obj\Debug\fahrenheit.pdb

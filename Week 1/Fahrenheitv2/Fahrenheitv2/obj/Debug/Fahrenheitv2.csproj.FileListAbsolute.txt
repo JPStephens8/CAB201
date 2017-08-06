@@ -1,0 +1,6 @@
+c:\users\joshy\documents\visual studio 2015\Projects\Fahrenheitv2\Fahrenheitv2\bin\Debug\Fahrenheitv2.exe.config
+c:\users\joshy\documents\visual studio 2015\Projects\Fahrenheitv2\Fahrenheitv2\bin\Debug\Fahrenheitv2.exe
+c:\users\joshy\documents\visual studio 2015\Projects\Fahrenheitv2\Fahrenheitv2\bin\Debug\Fahrenheitv2.pdb
+c:\users\joshy\documents\visual studio 2015\Projects\Fahrenheitv2\Fahrenheitv2\obj\Debug\Fahrenheitv2.csprojResolveAssemblyReference.cache
+c:\users\joshy\documents\visual studio 2015\Projects\Fahrenheitv2\Fahrenheitv2\obj\Debug\Fahrenheitv2.exe
+c:\users\joshy\documents\visual studio 2015\Projects\Fahrenheitv2\Fahrenheitv2\obj\Debug\Fahrenheitv2.pdb

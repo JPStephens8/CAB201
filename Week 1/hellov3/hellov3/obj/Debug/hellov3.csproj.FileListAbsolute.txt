@@ -1,0 +1,6 @@
+c:\users\joshy\documents\visual studio 2015\Projects\hellov3\hellov3\bin\Debug\hellov3.exe.config
+c:\users\joshy\documents\visual studio 2015\Projects\hellov3\hellov3\obj\Debug\hellov3.csprojResolveAssemblyReference.cache
+c:\users\joshy\documents\visual studio 2015\Projects\hellov3\hellov3\bin\Debug\hellov3.exe
+c:\users\joshy\documents\visual studio 2015\Projects\hellov3\hellov3\bin\Debug\hellov3.pdb
+c:\users\joshy\documents\visual studio 2015\Projects\hellov3\hellov3\obj\Debug\hellov3.exe
+c:\users\joshy\documents\visual studio 2015\Projects\hellov3\hellov3\obj\Debug\hellov3.pdb
