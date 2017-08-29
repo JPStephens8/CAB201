@@ -1,0 +1,6 @@
+c:\users\joshy\documents\visual studio 2015\Projects\ClassEnrolment\ClassEnrolment\bin\Debug\ClassEnrolment.exe.config
+c:\users\joshy\documents\visual studio 2015\Projects\ClassEnrolment\ClassEnrolment\bin\Debug\ClassEnrolment.exe
+c:\users\joshy\documents\visual studio 2015\Projects\ClassEnrolment\ClassEnrolment\bin\Debug\ClassEnrolment.pdb
+c:\users\joshy\documents\visual studio 2015\Projects\ClassEnrolment\ClassEnrolment\obj\Debug\ClassEnrolment.csprojResolveAssemblyReference.cache
+c:\users\joshy\documents\visual studio 2015\Projects\ClassEnrolment\ClassEnrolment\obj\Debug\ClassEnrolment.exe
+c:\users\joshy\documents\visual studio 2015\Projects\ClassEnrolment\ClassEnrolment\obj\Debug\ClassEnrolment.pdb

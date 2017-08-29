@@ -1,0 +1,9 @@
+c:\users\joshy\documents\visual studio 2015\Projects\buggyTemp\buggyTemp\bin\Debug\buggyTemp.exe.config
+c:\users\joshy\documents\visual studio 2015\Projects\buggyTemp\buggyTemp\bin\Debug\buggyTemp.exe
+c:\users\joshy\documents\visual studio 2015\Projects\buggyTemp\buggyTemp\bin\Debug\buggyTemp.pdb
+c:\users\joshy\documents\visual studio 2015\Projects\buggyTemp\buggyTemp\obj\Debug\buggyTemp.exe
+c:\users\joshy\documents\visual studio 2015\Projects\buggyTemp\buggyTemp\obj\Debug\buggyTemp.pdb
+C:\Users\Joshy\Documents\Visual Studio 2015\Projects\buggyTemp\buggyTemp\obj\Debug\buggyTemp.csprojResolveAssemblyReference.cache
+C:\Users\Joshy\Documents\Visual Studio 2015\Projects\Week 3\buggyTemp\buggyTemp\bin\Debug\buggyTemp.exe.config
+C:\Users\Joshy\Documents\Visual Studio 2015\Projects\Week 3\buggyTemp\buggyTemp\obj\Debug\buggyTemp.exe
+C:\Users\Joshy\Documents\Visual Studio 2015\Projects\Week 3\buggyTemp\buggyTemp\obj\Debug\buggyTemp.pdb

@@ -1,0 +1,6 @@
+c:\users\joshy\documents\visual studio 2015\Projects\linearSearch\linearSearch\bin\Debug\linearSearch.exe.config
+c:\users\joshy\documents\visual studio 2015\Projects\linearSearch\linearSearch\bin\Debug\linearSearch.exe
+c:\users\joshy\documents\visual studio 2015\Projects\linearSearch\linearSearch\bin\Debug\linearSearch.pdb
+c:\users\joshy\documents\visual studio 2015\Projects\linearSearch\linearSearch\obj\Debug\linearSearch.exe
+c:\users\joshy\documents\visual studio 2015\Projects\linearSearch\linearSearch\obj\Debug\linearSearch.pdb
+C:\Users\Joshy\Documents\Visual Studio 2015\Projects\linearSearch\linearSearch\obj\Debug\linearSearch.csprojResolveAssemblyReference.cache

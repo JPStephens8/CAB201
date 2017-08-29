@@ -1,0 +1,6 @@
+c:\users\joshy\documents\visual studio 2015\Projects\KPH to MPH\KPH to MPH\bin\Debug\KPH to MPH.exe.config
+C:\Users\Joshy\Documents\Visual Studio 2015\Projects\KPH to MPH\KPH to MPH\bin\Debug\KPH to MPH.exe
+C:\Users\Joshy\Documents\Visual Studio 2015\Projects\KPH to MPH\KPH to MPH\bin\Debug\KPH to MPH.pdb
+C:\Users\Joshy\Documents\Visual Studio 2015\Projects\KPH to MPH\KPH to MPH\obj\Debug\KPH to MPH.csprojResolveAssemblyReference.cache
+C:\Users\Joshy\Documents\Visual Studio 2015\Projects\KPH to MPH\KPH to MPH\obj\Debug\KPH to MPH.exe
+C:\Users\Joshy\Documents\Visual Studio 2015\Projects\KPH to MPH\KPH to MPH\obj\Debug\KPH to MPH.pdb
